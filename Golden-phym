@@ -15,7 +15,7 @@
 
   "magisk": {
 
-    "version": "@golden-phy",
+    "version": "golden-phy",
 
     "versionCode": "23",
 
@@ -27,7 +27,7 @@
 
   "stub": {
 
-    "versionCode": "21",
+    "versionCode": "69",
 
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
 
